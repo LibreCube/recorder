@@ -1,0 +1,20 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf8" /><title>Serwery hostit.pl</title><link rel="stylesheet" href="css/style.css" type="text/css" /><!--[if lt IE 7]><script type="text/javascript" src="js/unitpngfix.js"></script><![endif]--><STYLE type="text/css">* {margin: 0;padding: 0;}body {font-family: Arial, Helvetica, sans-serif;font-size: 12px;line-height: 15px;color: #636363;background: url(http://hostit.pl/images/body_bg_neutral.jpg) no-repeat top #efefef;;margin: 0 auto;}a img {text-decoration: none;border: none;}#container {width: 972px; margin: 0 auto;position: absolute;}                  .clear {clear: both;}.left {float: left;}.right {float: right;}#logo {width: 972px;margin: 0 auto;}#logo img {margin: 40px 0 15px 0;}#logo p {text-align: center;}#header {width: 912px;height: 202px;padding: 30px;background: url(http://hostit.pl/images/header_bg.png) no-repeat;}h1 {font-size: 42px;margin: 90px 0 0 0;padding: 0 0 20px 0;text-align: center;font-weight: normal;}#header p {font-size: 16px;margin: 15px 0 0 0;text-align: center;}#footer {width: 912px;height: 114px;padding: 30px;background: url(http://hostit.pl/images/footer_bg.png) no-repeat;}#footer p {text-align: center;font-size: 16px;}fieldset {border: none;}#tagline {color: #777;}</style></head>
+<body>
+	<div id="container">
+		<div id="logo">
+			<p style="height:65px;">&nbsp;</p>
+		</div>
+		<div id="header" class="left">
+			<p><a href="http://hostit.pl"  title="hosting"><img alt="Hosting" style="padding-top:15px;" src="http://hostit.pl/images/hostit-logo.png" height="65" width="249" alt="Ethereal" /></a></p>
+			<h1>Błąd 404</h1>
+		</div>
+		<div id="footer" class="left">
+			<p>Poszukiwana strona nie istnieje lub został usunięta.</p>
+		</div>
+	</div>
+	<script language="javascript">
+	document.getElementById("container").style.top = (document.getElementsByTagName('html')[0].clientHeight / 2 - ( document.getElementById("container").clientHeight / 2)) - 30  + 'px';
+	document.getElementById("container").style.left = (document.getElementsByTagName('html')[0].clientWidth / 2 - ( document.getElementById("container").clientWidth / 2)) + 'px';
+  </script>
+</body>
+</html>

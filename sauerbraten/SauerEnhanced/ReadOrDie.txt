@@ -1,0 +1,65 @@
+SauerEnchanced
+
+v14.3 BETA
+
+Thanks to K1P57A for flag and blip textures.
+
+Thanks to Quaker66 for helping me with development on this mod.
+
+If sometimes sound will not be played that probably means game is trying to play too much sounds at once. Try "/maxsoundsatonce 10" or higher value.
+NOTE: 3D menus don't work anymore. Please be patient before i fix it...
+
+IRC: #sauerenhanced on irc.freenode.net
+
+Source code is included. Check 'SauerEnhanced/src'.
+
+
+v14.3 - BETA:
+	Added "Check-For-New-Version".
+	Added profile system.
+	Added working news system.
+	New, realistic bullet trails.
+	Screenshots are saved in "screenshots" folder now and movies in "videos".
+	Disabled annoying auto-sort for servers. Press "Sort servers" button to resort.
+	Added heartbeat sound and bloody-screen when health is less than 26.
+	Added bullet nearmiss sounds.
+	Improved rain and snow.
+	Removed screen fx.
+	Remade teleport effect.
+	Nicer spark effect.
+	Light rays aka "Godrays".
+	Full UI rework: HUD, GUI, loading screen and UI sounds.
+	Rewrote SE file functions.
+	Added frag notify sounds (Normal kill, nice-shot kill, team-kill).
+	Added glow particles.
+
+--EXTRA MAP EFFECTS--
+How to use additional map effects and .se ent storage files.
+
+RAIN AND SNOW:
+Snow: /newent particles 77 <radius> <wind strenght>
+Rain: /newent particles 78 <radius> <wind strenght>
+Glow: /newent particles 79 <color 0xRGB> <size> <flicker 0/1>
+
+If there's default flare-rain on a map, SauerEnhanced automaticly replaces it with enhanced one.
+
+ADDING SOUDNS:
+
+Just do /newent sound <SoundNum> <Radius1> <Radius2> <none> 1
+
+5th attribute MUST be 1 !!!
+
+To save extra map fx (sounds and particles): /writesefile
+
+For debugging SE file saving/reading use the /sefiledbg var
+You can save particles to SE file only if attr1 is higher than 76
+
+You can edit SE files manually:
+Just go to SauerEnhanced/ents/ and open .se file with Notepad or WordPad
+
+END...
+
+
+For full history check the 'changelog.txt' file.
+
+--------------------------------Q009----

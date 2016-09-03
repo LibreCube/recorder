@@ -1,0 +1,36 @@
+//bind "MOUSE3" [lastweapon = $getweapon; setweapon 5 1; attack; onrelease setweapon $lastweapon 1 ]
+bind "LCTRL" [dropflag; sayteam "!Flag dropped!"]
+bind "LSHIFT" [sayteam "!Incoming!"]
+bind 4 [sayteam "!Enemy flag carrier low!"]
+texreduce 12
+playermodel 2
+forceplayermodels 1
+fullbrightmodels 1
+hudgun 1
+blood 1
+sensitivity 1.5
+name >Яąw<Hypernova^
+//name 'eS|Adelaide
+texreduce 0
+sensitivity 3
+decals 0
+glare 0
+exec config/main.cfg
+
+//#1 is pumped
+//#2 is sprayed
+//#3 is torpedoed
+//#4 is picked off
+//#5 is bombed
+//#6 is gunned
+
+bind "3" [setweapon 2]
+bind "R" [setweapon 5]
+bind "3" [setweapon 2]
+bind "E" [setweapon 4]
+bind "C" [setweapon 1]
+bind "F" [setweapon 3]
+bind "MOUSE2" togglezoom
+bind "mouse1" attack
+
+

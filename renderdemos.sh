@@ -5,7 +5,7 @@
 
 #how to specify which player to spec??
 
-demosdir="/var/local/$(whoami)/demos"
+demosdir="/var/local/$(whoami)/sauer-recorder/demos"
 pushd "$demosdir" >/dev/null
 #for demo in $(ls *.dmo | cut -d'.' -f1); do
 
@@ -36,7 +36,7 @@ player="$2"
 
     sauerconout="${demosdir}/../sauerconout.log"
     echo "Rendering demo ${demo} with pov from ${player}..."
-    ./bin_unix/native_client -g${sauerconout} -x"exec record.cfg" -q${demosdir} >& ${demosdir}/../sauerbraten-recent.log && echo "Demo rendering completed!" || echo "Unexpected failure while rendering demo, check /var/local/$(whoami)/sauerbraten.log"
+    ./bin_unix/native_client -g${sauerconout} -x"exec record.cfg" -q${demosdir} >& ${demosdir}/../sauerbraten-recent.log && echo "Demo rendering completed!" || echo "Unexpected failure while rendering demo, check /var/local/$(whoami)/sauer-recorder/sauerbraten.log"
 
     #back to var/local/usr/demos
     popd

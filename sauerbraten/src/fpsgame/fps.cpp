@@ -419,15 +419,15 @@ namespace game
         if(actor->type==ENT_AI)
             conoutf(contype, "\f2%s got killed by %s!", dname, aname);
         else if(d==actor || actor->type==ENT_INANIMATE)
-            conoutf(contype, "\f2%s suicided%s", dname, d==player1 ? "!" : "");
+            conoutf(contype, "\f2%s @%s", dname, d==player1 ? "!" : "");
         else if(isteam(d->team, actor->team))
         {
             contype |= CON_TEAMKILL;
-            conoutf(contype, "%s killed %s with %s", aname, dname, guns[actor->lastattackgun].name);
+            conoutf(contype, "%s %s %s", aname, guns[actor->lastattackgun].name, dname);
         }
         else
         {
-            conoutf(contype, "%s killed %s with %s", aname, dname, guns[actor->lastattackgun].name);
+            conoutf(contype, "%s %s %s", aname, guns[actor->lastattackgun].name, dname);
         }
         deathstate(d);
 		ai::killed(d, actor);

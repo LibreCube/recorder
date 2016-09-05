@@ -16,207 +16,353 @@ init: world
 init: sound
 init: cfg
 valid range for fullbrightmodels is 0..200
-playing demo "Rexus.Santa'sDominion.310.memento.dmo"
+playing demo "r3hab.redemption.147.dmo"
 Welcome to the 'eS Clan Server
 gamespeed is 50
 init: mainloop
-read map packages/base/memento.ogz (0.1 seconds)
-Memento by Redon in 2009
-game mode is efficiency
-Efficiency: You spawn with all weapons and armour. There are no items. Frag everyone to score points.
+read map packages/base/redemption.ogz (0.2 seconds)
+Redemption by Kaiser
+game mode is effic ctf
+Efficiency Capture The Flag: Capture the enemy flag and bring it back to your flag to score points for your team. You spawn with all weapons and armour. There are no items.
 mastermode is locked (2)
-join: Cannibal
-join: Sauerking
-join: Santa'sDominion
+join: r3hab
+join: EpicNoob
+join: !s]Awesom-o
+join: Terminator
+join: !s]Origin
+join: .cS|BlaDesA
+recording demo
 follow on
 game is paused
 game is resumed
-movie recording to: Rexus.Santa'sDominion.310.memento.avi 1920x1080 @ 16fps + sound
-Santa'sDominion killed Cannibal with minigun
-Cannibal killed Santa'sDominion with minigun
-Santa'sDominion killed Cannibal with rockets
-Cannibal killed Santa'sDominion with rockets
-Santa'sDominion killed Cannibal with rifle
-Cannibal killed Santa'sDominion with rifle
-Santa'sDominion killed Cannibal with rifle
-Cannibal killed Santa'sDominion with rockets
-Santa'sDominion killed Cannibal with rockets
-Santa'sDominion killed Cannibal with shotgun
-Cannibal killed Santa'sDominion with rockets
-Santa'sDominion killed Cannibal with minigun
-Cannibal killed Santa'sDominion with rockets
-Santa'sDominion killed Cannibal with minigun
-Cannibal killed Santa'sDominion with minigun
-Santa'sDominion killed Cannibal with minigun
-Santa'sDominion killed Cannibal with rockets
-Cannibal killed Santa'sDominion with minigun
-Santa'sDominion killed Cannibal with rockets
-Cannibal killed Santa'sDominion with rockets
-Santa'sDominion killed Cannibal with rifle
-Cannibal killed Santa'sDominion with rifle
-Santa'sDominion killed Cannibal with minigun
-Cannibal killed Santa'sDominion with rockets
-join: |ORK|Oni
-Santa'sDominion suicided
-Santa'sDominion killed Cannibal with rockets
-|ORK|Oni (1) connected from United States.
-Santa'sDominion killed Cannibal with minigun
-leave: |ORK|Oni
-Cannibal killed Santa'sDominion with minigun
-Santa'sDominion killed Cannibal with minigun
-Cannibal killed Santa'sDominion with rockets
-Santa'sDominion killed Cannibal with minigun
-Cannibal killed Santa'sDominion with rockets
-Santa'sDominion killed Cannibal with shotgun
-Santa'sDominion killed Cannibal with rockets
-Cannibal killed Santa'sDominion with minigun
-Cannibal killed Santa'sDominion with rockets
-Santa'sDominion killed Cannibal with minigun
-Cannibal killed Santa'sDominion with rifle
-Santa'sDominion killed Cannibal with rockets
-Cannibal killed Santa'sDominion with rifle
-Santa'sDominion killed Cannibal with minigun
-Cannibal killed Santa'sDominion with grenades
-Cannibal killed Santa'sDominion with rifle
-Santa'sDominion killed Cannibal with minigun
-Cannibal suicided
-Cannibal killed Santa'sDominion with rockets
-To get permanent statistics, name protection and Mumble autoteam support, register your server account at http://ogros.org
-Cannibal killed Santa'sDominion with rockets
-Santa'sDominion killed Cannibal with minigun
-Cannibal killed Santa'sDominion with rifle
-Cannibal killed Santa'sDominion with rifle
-Cannibal killed Santa'sDominion with minigun
-Santa'sDominion killed Cannibal with minigun
-Santa'sDominion killed Cannibal with minigun
-Santa'sDominion killed Cannibal with rifle
-Cannibal killed Santa'sDominion with rockets
-Santa'sDominion killed Cannibal with rifle
-Cannibal killed Santa'sDominion with rockets
-Santa'sDominion killed Cannibal with shotgun
-Cannibal killed Santa'sDominion with rifle
-Santa'sDominion killed Cannibal with minigun
-Cannibal killed Santa'sDominion with rifle
-Santa'sDominion killed Cannibal with shotgun
-Santa'sDominion killed Cannibal with rockets
-Cannibal killed Santa'sDominion with rifle
-Santa'sDominion killed Cannibal with rockets
-Santa'sDominion killed Cannibal with shotgun
-Cannibal killed Santa'sDominion with minigun
-Cannibal killed Santa'sDominion with rifle
-Santa'sDominion killed Cannibal with minigun
-Santa'sDominion killed Cannibal with minigun
-Cannibal killed Santa'sDominion with minigun
-Santa'sDominion killed Cannibal with rockets
-Cannibal suicided
-Cannibal killed Santa'sDominion with minigun
-Santa'sDominion killed Cannibal with rockets
-Cannibal killed Santa'sDominion with rockets
-Santa'sDominion killed Cannibal with rockets
-Cannibal killed Santa'sDominion with rockets
-Santa'sDominion killed Cannibal with rockets
-Santa'sDominion killed Cannibal with rifle
-Santa'sDominion killed Cannibal with rockets
-Santa'sDominion killed Cannibal with rifle
-Cannibal killed Santa'sDominion with rockets
-Santa'sDominion killed Cannibal with minigun
-Cannibal killed Santa'sDominion with minigun
-Santa'sDominion killed Cannibal with minigun
-Someone really misbehaving? Be a snitch, go to http://ogros.org > IRC to-go and let us know!
-Cannibal killed Santa'sDominion with minigun
-Santa'sDominion killed Cannibal with shotgun
-Cannibal killed Santa'sDominion with rockets
-Santa'sDominion killed Cannibal with rockets
-Cannibal killed Santa'sDominion with rifle
-Santa'sDominion killed Cannibal with rockets
-Cannibal killed Santa'sDominion with rockets
-Santa'sDominion killed Cannibal with shotgun
-Cannibal killed Santa'sDominion with minigun
-Santa'sDominion killed Cannibal with minigun
-Cannibal killed Santa'sDominion with rockets
-Santa'sDominion killed Cannibal with shotgun
-Cannibal killed Santa'sDominion with rockets
-Santa'sDominion killed Cannibal with minigun
-Cannibal killed Santa'sDominion with shotgun
-Santa'sDominion killed Cannibal with rockets
-Santa'sDominion killed Cannibal with rifle
-Santa'sDominion: :D:DD:
-Santa'sDominion killed Cannibal with rockets
-Cannibal killed Santa'sDominion with rifle
-Cannibal killed Santa'sDominion with rockets
-Santa'sDominion killed Cannibal with minigun
-Cannibal killed Santa'sDominion with rockets
-Santa'sDominion killed Cannibal with minigun
-Santa'sDominion killed Cannibal with minigun
-Santa'sDominion killed Cannibal with shotgun
-Cannibal killed Santa'sDominion with rockets
-Cannibal killed Santa'sDominion with rifle
-Santa'sDominion killed Cannibal with minigun
-Cannibal killed Santa'sDominion with rockets
-Santa'sDominion killed Cannibal with rockets
-Santa'sDominion killed Cannibal with shotgun
-Cannibal killed Santa'sDominion with rockets
-Cannibal killed Santa'sDominion with rifle
-Santa'sDominion killed Cannibal with rockets
-Cannibal killed Santa'sDominion with rifle
-Santa'sDominion killed Cannibal with rifle
-Santa'sDominion killed Cannibal with rifle
-Santa'sDominion killed Cannibal with shotgun
-Santa'sDominion killed Cannibal with rifle
-Cannibal killed Santa'sDominion with rockets
-Cannibal killed Santa'sDominion with rifle
-Santa'sDominion killed Cannibal with rockets
-Santa'sDominion killed Cannibal with rockets
-Santa'sDominion killed Cannibal with shotgun
-Cannibal killed Santa'sDominion with rockets
-Santa'sDominion killed Cannibal with minigun
-Cannibal killed Santa'sDominion with rockets
-Santa'sDominion killed Cannibal with minigun
-To get permanent statistics, name protection and Mumble autoteam support, register your server account at http://ogros.org
-Cannibal killed Santa'sDominion with minigun
-Santa'sDominion killed Cannibal with rockets
-Santa'sDominion killed Cannibal with minigun
-Santa'sDominion suicided
-Santa'sDominion killed Cannibal with rockets
-join: [GLX]Alu
-[GLX]Alu (1) connected from Colombia.
-join: [tBMC].::bbk::.
-Cannibal killed Santa'sDominion with rifle
-Santa'sDominion killed Cannibal with minigun
-[tBMC].::bbk::. (4) connected from United States.
-leave: [GLX]Alu
-Santa'sDominion killed Cannibal with shotgun
-Cannibal killed Santa'sDominion with rockets
-[tBMC].::bbk::. is verified
-Cannibal suicided
-Cannibal killed Santa'sDominion with rifle
-Santa'sDominion killed Cannibal with shotgun
-Cannibal killed Santa'sDominion with rockets
-Santa'sDominion killed Cannibal with shotgun
-leave: [tBMC].::bbk::.
-join: [tBMC].::bbk::.
-Santa'sDominion killed Cannibal with rifle
-[tBMC].::bbk::. (1) connected from United States.
-Cannibal killed Santa'sDominion with rockets
-Santa'sDominion killed Cannibal with shotgun
-Cannibal killed Santa'sDominion with rockets
-leave: [tBMC].::bbk::.
-Cannibal killed Santa'sDominion with rifle
-Santa'sDominion killed Cannibal with rockets
-Santa'sDominion killed Cannibal with rockets
+movie recording to: r3hab.redemption.147.avi 1920x1080 @ 16fps + sound
+Terminator made the FIRST KILL!!
+Terminator + EpicNoob
+Terminator = !s]Origin
+!s]Origin = !s]Awesom-o
+r3hab < Terminator
+.cS|BlaDesA + r3hab
+.cS|BlaDesA stole your flag
+.cS|BlaDesA dropped your flag
+Terminator picked up your flag
+!s]Origin stole the enemy flag
+!s]Origin < .cS|BlaDesA
+!s]Awesom-o = !s]Origin
+!s]Origin dropped the enemy flag
+!s]Awesom-o returned the enemy flag
+EpicNoob = Terminator
+Terminator dropped your flag
+r3hab stole the enemy flag
+join: la100
+EpicNoob returned your flag
+!s]Awesom-o < r3hab
+r3hab dropped the enemy flag
+.cS|BlaDesA returned the enemy flag
+Terminator + EpicNoob
+!s]Awesom-o < !s]Origin
+Terminator = r3hab
+EpicNoob = Terminator
+!s]Awesom-o stole your flag
+EpicNoob = !s]Awesom-o
+!s]Awesom-o dropped your flag
+EpicNoob = .cS|BlaDesA
+EpicNoob: triple kill
+EpicNoob: ye
+your flag reset
+!s]Origin + .cS|BlaDesA
+Terminator = !s]Origin
+leave: la100
+r3hab: triple idgaf
+r3hab: y
+.cS|BlaDesA < EpicNoob
+EpicNoob < .cS|BlaDesA
+!s]Origin = !s]Awesom-o
+!s]Origin + Terminator
+!s]Origin stole the enemy flag
+.cS|BlaDesA < !s]Origin
+!s]Origin dropped the enemy flag
+!s]Awesom-o stole your flag
+Terminator returned the enemy flag
+r3hab stole the enemy flag
+Terminator + r3hab
+r3hab dropped the enemy flag
+EpicNoob picked up the enemy flag
+EpicNoob @
+EpicNoob dropped the enemy flag
+EpicNoob < !s]Awesom-o
+!s]Awesom-o dropped your flag
+.cS|BlaDesA picked up your flag
+EpicNoob: lololololol
+.cS|BlaDesA returned the enemy flag
+!s]Origin stole the enemy flag
+.cS|BlaDesA @
+.cS|BlaDesA dropped your flag
+Terminator + !s]Origin
+!s]Origin dropped the enemy flag
+!s]Awesom-o picked up your flag
+Terminator returned the enemy flag
+.cS|BlaDesA: lol
+!s]Awesom-o scored for the enemy team
+EpicNoob stole the enemy flag
+!s]Awesom-o < EpicNoob
+EpicNoob dropped the enemy flag
+!s]Awesom-o returned the enemy flag
+r3hab < !s]Awesom-o
+r3hab = Terminator
+r3hab stole the enemy flag
+.cS|BlaDesA stole your flag
+.cS|BlaDesA = EpicNoob
+.cS|BlaDesA = !s]Origin
+Terminator @
+!s]Awesom-o = r3hab
+r3hab dropped the enemy flag
+!s]Awesom-o returned the enemy flag
+EpicNoob: am i lagging?
+.cS|BlaDesA scored for the enemy team
+Player .cS|BlaDesA scored in 16.279 seconds for team evil
+!s]Awesom-o stole your flag
+EpicNoob < !s]Awesom-o
+!s]Awesom-o dropped your flag
+EpicNoob returned your flag
+!s]Origin @
+r3hab stole the enemy flag
+!s]Awesom-o: dont think so
+r3hab < .cS|BlaDesA
+Terminator = EpicNoob
+Terminator stole your flag
+EpicNoob: so this server is lagging or zeus is
+Terminator @
+Terminator dropped your flag
+!s]Origin + !s]Awesom-o
+.cS|BlaDesA picked up your flag
+.cS|BlaDesA < !s]Origin
+.cS|BlaDesA: d:DD
+!s]Origin: damn
+!s]Origin: nice rocket
+join: :D
+r3hab + !s]Awesom-o
+!s]Origin @
+EpicNoob = Terminator
+leave: :D
+Terminator $ EpicNoob
+!s]Origin < .cS|BlaDesA
+.cS|BlaDesA dropped your flag
+.cS|BlaDesA < !s]Origin
+Terminator picked up your flag
+!s]Awesom-o < r3hab
+r3hab dropped the enemy flag
+EpicNoob picked up the enemy flag
+EpicNoob < !s]Awesom-o
+Terminator @
+Terminator dropped your flag
+.cS|BlaDesA picked up your flag
+!s]Origin + .cS|BlaDesA
+.cS|BlaDesA dropped your flag
+Terminator picked up your flag
+r3hab + Terminator
+Terminator dropped your flag
+!s]Awesom-o picked up your flag
+.cS|BlaDesA = r3hab
+r3hab < !s]Origin
+r3hab: lolol
+r3hab: sry
+EpicNoob dropped the enemy flag
+r3hab picked up the enemy flag
+!s]Origin = .cS|BlaDesA
+.cS|BlaDesA < EpicNoob
+join: |HD|Instaman
+Terminator = !s]Origin
+EpicNoob = Terminator
+|HD|Instaman: sup rehab
+r3hab + .cS|BlaDesA
+Terminator + !s]Origin
+Terminator = r3hab
+r3hab dropped the enemy flag
+!s]Origin = Terminator
+.cS|BlaDesA + EpicNoob
+!s]Origin picked up the enemy flag
+r3hab: sup to whoever you are
+!s]Origin + .cS|BlaDesA
+|HD|Instaman: um
+.cS|BlaDesA: jumper
+|HD|Instaman: Jumper?
+!s]Origin = Terminator
+!s]Origin dropped the enemy flag
+.cS|BlaDesA = r3hab
+!s]Origin picked up the enemy flag
+!s]Origin + .cS|BlaDesA
+r3hab: ah right
+r3hab: the cheater
+|HD|Instaman: lol
+EpicNoob < !s]Awesom-o
+!s]Awesom-o dropped your flag
+EpicNoob returned your flag
+.cS|BlaDesA < !s]Origin
+!s]Origin dropped the enemy flag
+!s]Awesom-o: damn
+.cS|BlaDesA returned the enemy flag
+Terminator stole your flag
+|HD|Instaman: did I miss something?
+r3hab stole the enemy flag
+!s]Awesom-o = EpicNoob
+Terminator @
+Terminator dropped your flag
+!s]Awesom-o picked up your flag
+!s]Origin < .cS|BlaDesA
+r3hab @
+r3hab dropped the enemy flag
+!s]Origin picked up the enemy flag
+!s]Origin dropped the enemy flag
+|HD|Instaman: because a week ago you was nice to me
+!s]Origin picked up the enemy flag
+!s]Origin dropped the enemy flag
+r3hab: I was?
+EpicNoob picked up the enemy flag
+Terminator = !s]Origin
+|HD|Instaman: You was
+r3hab: proabably high
+Terminator < EpicNoob
+EpicNoob dropped the enemy flag
+EpicNoob < .cS|BlaDesA
+Terminator returned the enemy flag
+EpicNoob: damn
+!s]Awesom-o scored for the enemy team
+r3hab = Terminator
+!s]Awesom-o @
+Terminator: haha
+!s]Origin + .cS|BlaDesA
+r3hab stole the enemy flag
+Terminator + r3hab
+r3hab dropped the enemy flag
+r3hab < Terminator
+!s]Awesom-o stole your flag
+Terminator: :D
+.cS|BlaDesA returned the enemy flag
+!s]Origin stole the enemy flag
+r3hab: sry for making any hopes
+EpicNoob < !s]Awesom-o
+!s]Awesom-o dropped your flag
+.cS|BlaDesA < EpicNoob
+.cS|BlaDesA picked up your flag
+.cS|BlaDesA dropped your flag
+.cS|BlaDesA picked up your flag
+.cS|BlaDesA dropped your flag
+Terminator + !s]Origin
+!s]Origin dropped the enemy flag
+!s]Awesom-o picked up your flag
+EpicNoob + Terminator
+leave: |HD|Instaman
+.cS|BlaDesA + r3hab
+!s]Origin picked up the enemy flag
+Terminator < EpicNoob
+!s]Origin = .cS|BlaDesA
+r3hab $ Terminator
+Terminator: haha
+EpicNoob = .cS|BlaDesA
+r3hab + !s]Awesom-o
+!s]Awesom-o dropped your flag
+r3hab returned your flag
+!s]Origin scored for your team
+!s]Awesom-o: oh man
+Terminator = !s]Origin
+Terminator stole your flag
+Terminator $ r3hab
+Terminator scored for the enemy team
+Player Terminator scored in 8.588 seconds for team evil
+Eliminating record of player .cS|BlaDesA (16.279 seconds)
+!s]Origin < Terminator
+.cS|BlaDesA stole your flag
+.cS|BlaDesA < EpicNoob
+!s]Origin = !s]Awesom-o
+r3hab $ .cS|BlaDesA
+.cS|BlaDesA dropped your flag
+Terminator + !s]Origin
+r3hab returned your flag
+EpicNoob: this dropping frames
+r3hab stole the enemy flag
+r3hab $ !s]Awesom-o
+.cS|BlaDesA = r3hab
+r3hab dropped the enemy flag
+EpicNoob $ Terminator
+.cS|BlaDesA returned the enemy flag
+EpicNoob = .cS|BlaDesA
+!s]Awesom-o = !s]Origin
+!s]Awesom-o @
+r3hab < Terminator
+.cS|BlaDesA > EpicNoob
+r3hab stole the enemy flag
+.cS|BlaDesA < !s]Origin
+.cS|BlaDesA stole your flag
+r3hab < !s]Awesom-o
+r3hab + .cS|BlaDesA
+.cS|BlaDesA dropped your flag
+!s]Awesom-o: oh man he low
+r3hab returned your flag
+EpicNoob < Terminator
+r3hab scored for your team
+Player r3hab scored in 14.638 seconds for team good
+Try harder to beat the record of player Terminator (8.588 seconds)
+r3hab @
+!s]Awesom-o stole your flag
+EpicNoob = .cS|BlaDesA
+EpicNoob stole the enemy flag
+Terminator < !s]Origin
+!s]Origin = .cS|BlaDesA
+Terminator < EpicNoob
+EpicNoob dropped the enemy flag
+!s]Origin picked up the enemy flag
+!s]Origin + Terminator
+r3hab $ !s]Awesom-o
+!s]Awesom-o dropped your flag
+r3hab returned your flag
+!s]Origin scored for your team
+.cS|BlaDesA + r3hab
+.cS|BlaDesA @
+!s]Awesom-o = !s]Origin
+!s]Awesom-o stole your flag
+!s]Awesom-o scored for the enemy team
+Player !s]Awesom-o scored in 7.959 seconds for team evil
+Eliminating record of player Terminator (8.588 seconds)
+!s]Origin < Terminator
+r3hab + !s]Awesom-o
+r3hab stole the enemy flag
+.cS|BlaDesA = r3hab
+r3hab dropped the enemy flag
+.cS|BlaDesA + EpicNoob
+.cS|BlaDesA returned the enemy flag
+!s]Origin stole the enemy flag
+EpicNoob: meh
+!s]Awesom-o = !s]Origin
+!s]Origin dropped the enemy flag
+Terminator returned the enemy flag
+.cS|BlaDesA stole your flag
+EpicNoob $ .cS|BlaDesA
+.cS|BlaDesA dropped your flag
+!s]Origin returned your flag
+r3hab = !s]Awesom-o
+r3hab < Terminator
+Terminator < r3hab
+Terminator: gg
 intermission:
 game has ended!
-player frags: 0, deaths: 0
+player frags: 0, flags: 0, deaths: 0
 player total damage dealt: 0, damage wasted: 0, accuracy(%): 0
-Awards: Frag Machine: Santa'sDominion (81) | Cannonfodder: Cannibal (86) | Rambo: Santa'sDominion (1.17) | Lemming: Cannibal (3) | Precision Freak: Santa'sDominion (31%)
-Cannibal: Good Game
-Santa'sDominion: gg
-Sauerking: gg
-Cannibal: Today you hit everything..
-leave: Cannibal
-leave: Sauerking
-leave: Santa'sDominion
+Awards: King of KpD: EpicNoob (1.06), Accuracy Freak: !s]Origin (20%)
+Flag Awards: Flag Snatcher: !s]Origin (18), Homerun Champion: !s]Origin (6), Flag Saver: .cS|BlaDesA (7)
+Flag score time record: !s]Awesom-o with 7.959 seconds
+!s]Origin: gg
+EpicNoob: gg
+!s]Awesom-o: gg
+r3hab: gg
+!s]Awesom-o: ok i'm done
+leave: !s]Awesom-o
+leave: r3hab
+leave: EpicNoob
+leave: Terminator
+leave: !s]Origin
+leave: .cS|BlaDesA
 demo playback finished
 gamespeed is 50
 follow off
-movie recording halted: stopped, 19515 frames
+gamespeed is 100
+movie recording halted: stopped, 19530 frames

@@ -347,11 +347,11 @@ static struct itemstat { int add, max, sound; const char *name; int icon, info; 
 static const struct guninfo { int sound, attackdelay, damage, spread, projspeed, kickamount, range, rays, hitpush, exprad, ttl; const char *name, *file; short part; } guns[NUMGUNS] =
 {
     { S_PUNCH1,    250,  50,   0,   0,  0,   14,  1,  80,  0,    0, "chainsaw",            "fist",   0 },
-    { S_SG,       1400,  10, 400,   0, 20, 1024, 20,  80,  0,    0, "shotgun",         "shotg",  0 },
-    { S_CG,        100,  30, 100,   0,  7, 1024,  1,  80,  0,    0, "minigun",        "chaing", 0 },
-    { S_RLFIRE,    800, 120,   0, 320, 10, 1024,  1, 160, 40,    0, "rockets",  "rocket", 0 },
-    { S_RIFLE,    1500, 100,   0,   0, 30, 2048,  1,  80,  0,    0, "rifle",           "rifle",  0 },
-    { S_FLAUNCH,   600,  90,   0, 200, 10, 1024,  1, 250, 45, 1500, "grenades", "gl",     0 },
+    { S_SG,       1400,  10, 400,   0, 20, 1024, 20,  80,  0,    0, "$",         "shotg",  0 },
+    { S_CG,        100,  30, 100,   0,  7, 1024,  1,  80,  0,    0, "=",        "chaing", 0 },
+    { S_RLFIRE,    800, 120,   0, 320, 10, 1024,  1, 160, 40,    0, "<",  "rocket", 0 },
+    { S_RIFLE,    1500, 100,   0,   0, 30, 2048,  1,  80,  0,    0, "+",           "rifle",  0 },
+    { S_FLAUNCH,   600,  90,   0, 200, 10, 1024,  1, 250, 45, 1500, ">", "gl",     0 },
     { S_PISTOL,    500,  35,  50,   0,  7, 1024,  1,  80,  0,    0, "pistol",          "pistol", 0 },
     { S_FLAUNCH,   200,  20,   0, 200,  1, 1024,  1,  80, 40,    0, "fireball",        NULL,     PART_FIREBALL1 },
     { S_ICEBALL,   200,  40,   0, 120,  1, 1024,  1,  80, 40,    0, "iceball",         NULL,     PART_FIREBALL2 },

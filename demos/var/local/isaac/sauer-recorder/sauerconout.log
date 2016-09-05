@@ -1,0 +1,222 @@
+init: sdl
+Library: SDL 1.2.15
+init: net
+init: game
+init: video: mode
+24 bit color buffer not supported - disabling
+Stencil buffer not supported - disabling
+init: video: misc
+init: gl
+Renderer: AMD Radeon HD 7560D (ATI Technologies Inc.)
+Driver: 4.5.13399 Compatibility Profile Context 15.201.1151
+Rendering using the OpenGL GLSL shader path.
+init: console
+init: gl: effects
+init: world
+init: sound
+init: cfg
+valid range for fullbrightmodels is 0..200
+playing demo "Rexus.Santa'sDominion.310.memento.dmo"
+Welcome to the 'eS Clan Server
+gamespeed is 50
+init: mainloop
+read map packages/base/memento.ogz (0.1 seconds)
+Memento by Redon in 2009
+game mode is efficiency
+Efficiency: You spawn with all weapons and armour. There are no items. Frag everyone to score points.
+mastermode is locked (2)
+join: Cannibal
+join: Sauerking
+join: Santa'sDominion
+follow on
+game is paused
+game is resumed
+movie recording to: Rexus.Santa'sDominion.310.memento.avi 1920x1080 @ 16fps + sound
+Santa'sDominion killed Cannibal with minigun
+Cannibal killed Santa'sDominion with minigun
+Santa'sDominion killed Cannibal with rockets
+Cannibal killed Santa'sDominion with rockets
+Santa'sDominion killed Cannibal with rifle
+Cannibal killed Santa'sDominion with rifle
+Santa'sDominion killed Cannibal with rifle
+Cannibal killed Santa'sDominion with rockets
+Santa'sDominion killed Cannibal with rockets
+Santa'sDominion killed Cannibal with shotgun
+Cannibal killed Santa'sDominion with rockets
+Santa'sDominion killed Cannibal with minigun
+Cannibal killed Santa'sDominion with rockets
+Santa'sDominion killed Cannibal with minigun
+Cannibal killed Santa'sDominion with minigun
+Santa'sDominion killed Cannibal with minigun
+Santa'sDominion killed Cannibal with rockets
+Cannibal killed Santa'sDominion with minigun
+Santa'sDominion killed Cannibal with rockets
+Cannibal killed Santa'sDominion with rockets
+Santa'sDominion killed Cannibal with rifle
+Cannibal killed Santa'sDominion with rifle
+Santa'sDominion killed Cannibal with minigun
+Cannibal killed Santa'sDominion with rockets
+join: |ORK|Oni
+Santa'sDominion suicided
+Santa'sDominion killed Cannibal with rockets
+|ORK|Oni (1) connected from United States.
+Santa'sDominion killed Cannibal with minigun
+leave: |ORK|Oni
+Cannibal killed Santa'sDominion with minigun
+Santa'sDominion killed Cannibal with minigun
+Cannibal killed Santa'sDominion with rockets
+Santa'sDominion killed Cannibal with minigun
+Cannibal killed Santa'sDominion with rockets
+Santa'sDominion killed Cannibal with shotgun
+Santa'sDominion killed Cannibal with rockets
+Cannibal killed Santa'sDominion with minigun
+Cannibal killed Santa'sDominion with rockets
+Santa'sDominion killed Cannibal with minigun
+Cannibal killed Santa'sDominion with rifle
+Santa'sDominion killed Cannibal with rockets
+Cannibal killed Santa'sDominion with rifle
+Santa'sDominion killed Cannibal with minigun
+Cannibal killed Santa'sDominion with grenades
+Cannibal killed Santa'sDominion with rifle
+Santa'sDominion killed Cannibal with minigun
+Cannibal suicided
+Cannibal killed Santa'sDominion with rockets
+To get permanent statistics, name protection and Mumble autoteam support, register your server account at http://ogros.org
+Cannibal killed Santa'sDominion with rockets
+Santa'sDominion killed Cannibal with minigun
+Cannibal killed Santa'sDominion with rifle
+Cannibal killed Santa'sDominion with rifle
+Cannibal killed Santa'sDominion with minigun
+Santa'sDominion killed Cannibal with minigun
+Santa'sDominion killed Cannibal with minigun
+Santa'sDominion killed Cannibal with rifle
+Cannibal killed Santa'sDominion with rockets
+Santa'sDominion killed Cannibal with rifle
+Cannibal killed Santa'sDominion with rockets
+Santa'sDominion killed Cannibal with shotgun
+Cannibal killed Santa'sDominion with rifle
+Santa'sDominion killed Cannibal with minigun
+Cannibal killed Santa'sDominion with rifle
+Santa'sDominion killed Cannibal with shotgun
+Santa'sDominion killed Cannibal with rockets
+Cannibal killed Santa'sDominion with rifle
+Santa'sDominion killed Cannibal with rockets
+Santa'sDominion killed Cannibal with shotgun
+Cannibal killed Santa'sDominion with minigun
+Cannibal killed Santa'sDominion with rifle
+Santa'sDominion killed Cannibal with minigun
+Santa'sDominion killed Cannibal with minigun
+Cannibal killed Santa'sDominion with minigun
+Santa'sDominion killed Cannibal with rockets
+Cannibal suicided
+Cannibal killed Santa'sDominion with minigun
+Santa'sDominion killed Cannibal with rockets
+Cannibal killed Santa'sDominion with rockets
+Santa'sDominion killed Cannibal with rockets
+Cannibal killed Santa'sDominion with rockets
+Santa'sDominion killed Cannibal with rockets
+Santa'sDominion killed Cannibal with rifle
+Santa'sDominion killed Cannibal with rockets
+Santa'sDominion killed Cannibal with rifle
+Cannibal killed Santa'sDominion with rockets
+Santa'sDominion killed Cannibal with minigun
+Cannibal killed Santa'sDominion with minigun
+Santa'sDominion killed Cannibal with minigun
+Someone really misbehaving? Be a snitch, go to http://ogros.org > IRC to-go and let us know!
+Cannibal killed Santa'sDominion with minigun
+Santa'sDominion killed Cannibal with shotgun
+Cannibal killed Santa'sDominion with rockets
+Santa'sDominion killed Cannibal with rockets
+Cannibal killed Santa'sDominion with rifle
+Santa'sDominion killed Cannibal with rockets
+Cannibal killed Santa'sDominion with rockets
+Santa'sDominion killed Cannibal with shotgun
+Cannibal killed Santa'sDominion with minigun
+Santa'sDominion killed Cannibal with minigun
+Cannibal killed Santa'sDominion with rockets
+Santa'sDominion killed Cannibal with shotgun
+Cannibal killed Santa'sDominion with rockets
+Santa'sDominion killed Cannibal with minigun
+Cannibal killed Santa'sDominion with shotgun
+Santa'sDominion killed Cannibal with rockets
+Santa'sDominion killed Cannibal with rifle
+Santa'sDominion: :D:DD:
+Santa'sDominion killed Cannibal with rockets
+Cannibal killed Santa'sDominion with rifle
+Cannibal killed Santa'sDominion with rockets
+Santa'sDominion killed Cannibal with minigun
+Cannibal killed Santa'sDominion with rockets
+Santa'sDominion killed Cannibal with minigun
+Santa'sDominion killed Cannibal with minigun
+Santa'sDominion killed Cannibal with shotgun
+Cannibal killed Santa'sDominion with rockets
+Cannibal killed Santa'sDominion with rifle
+Santa'sDominion killed Cannibal with minigun
+Cannibal killed Santa'sDominion with rockets
+Santa'sDominion killed Cannibal with rockets
+Santa'sDominion killed Cannibal with shotgun
+Cannibal killed Santa'sDominion with rockets
+Cannibal killed Santa'sDominion with rifle
+Santa'sDominion killed Cannibal with rockets
+Cannibal killed Santa'sDominion with rifle
+Santa'sDominion killed Cannibal with rifle
+Santa'sDominion killed Cannibal with rifle
+Santa'sDominion killed Cannibal with shotgun
+Santa'sDominion killed Cannibal with rifle
+Cannibal killed Santa'sDominion with rockets
+Cannibal killed Santa'sDominion with rifle
+Santa'sDominion killed Cannibal with rockets
+Santa'sDominion killed Cannibal with rockets
+Santa'sDominion killed Cannibal with shotgun
+Cannibal killed Santa'sDominion with rockets
+Santa'sDominion killed Cannibal with minigun
+Cannibal killed Santa'sDominion with rockets
+Santa'sDominion killed Cannibal with minigun
+To get permanent statistics, name protection and Mumble autoteam support, register your server account at http://ogros.org
+Cannibal killed Santa'sDominion with minigun
+Santa'sDominion killed Cannibal with rockets
+Santa'sDominion killed Cannibal with minigun
+Santa'sDominion suicided
+Santa'sDominion killed Cannibal with rockets
+join: [GLX]Alu
+[GLX]Alu (1) connected from Colombia.
+join: [tBMC].::bbk::.
+Cannibal killed Santa'sDominion with rifle
+Santa'sDominion killed Cannibal with minigun
+[tBMC].::bbk::. (4) connected from United States.
+leave: [GLX]Alu
+Santa'sDominion killed Cannibal with shotgun
+Cannibal killed Santa'sDominion with rockets
+[tBMC].::bbk::. is verified
+Cannibal suicided
+Cannibal killed Santa'sDominion with rifle
+Santa'sDominion killed Cannibal with shotgun
+Cannibal killed Santa'sDominion with rockets
+Santa'sDominion killed Cannibal with shotgun
+leave: [tBMC].::bbk::.
+join: [tBMC].::bbk::.
+Santa'sDominion killed Cannibal with rifle
+[tBMC].::bbk::. (1) connected from United States.
+Cannibal killed Santa'sDominion with rockets
+Santa'sDominion killed Cannibal with shotgun
+Cannibal killed Santa'sDominion with rockets
+leave: [tBMC].::bbk::.
+Cannibal killed Santa'sDominion with rifle
+Santa'sDominion killed Cannibal with rockets
+Santa'sDominion killed Cannibal with rockets
+intermission:
+game has ended!
+player frags: 0, deaths: 0
+player total damage dealt: 0, damage wasted: 0, accuracy(%): 0
+Awards: Frag Machine: Santa'sDominion (81) | Cannonfodder: Cannibal (86) | Rambo: Santa'sDominion (1.17) | Lemming: Cannibal (3) | Precision Freak: Santa'sDominion (31%)
+Cannibal: Good Game
+Santa'sDominion: gg
+Sauerking: gg
+Cannibal: Today you hit everything..
+leave: Cannibal
+leave: Sauerking
+leave: Santa'sDominion
+demo playback finished
+gamespeed is 50
+follow off
+movie recording halted: stopped, 19515 frames

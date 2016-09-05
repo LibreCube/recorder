@@ -1,0 +1,1 @@
+mencoder -speed 2 -o -reencoded.avi -oac mp3lame -ovc lavc .avi
